@@ -1,0 +1,23 @@
+{
+  "name": "smart-home-energy-frontend",
+  "version": "1.0.0",
+  "description": "Smart Home Energy Management System Frontend",
+  "main": "src/App.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "jest": "^30.1.1",
+    "vite": "^4.3.0"
+  }
+}
